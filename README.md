@@ -41,5 +41,5 @@ A desktop-based application developed in **JavaFX** for managing doctor appointm
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DoctorAppointmentManagementSystem.git
+   git clone https://github.com/Malikhamida/DoctorAppointmentManagementSystem.git
 
